@@ -3,3 +3,4 @@ With this iExec application you can fetch website data onto your smart contract 
 ROADMAP:
 - pass website url and specific css selectors as an argument to look for and return their innerhtml 
 - make this app web 3.0 compatible; switch between sites, enable users to do logins, etc.
+- build a decentralized escrow service on top of this
