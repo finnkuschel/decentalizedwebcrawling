@@ -1,4 +1,4 @@
-With this iExec application you are goingt to be able to fetch website data onto your smart contract in case a website doesn't provide an api.
+With this iExec application you are going to be able to fetch website data onto your smart contract in case a website doesn't provide an api.
 
 ROADMAP:
 - pass website url and specific css selectors as an argument to look for and return their innerhtml 
